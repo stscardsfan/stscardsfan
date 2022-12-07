@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stscardsfan, or Scott Swanger
+- 👋 Hi, I’m Scott!
 - 👀 I’m interested in getting proficient in coding again - I earned a B.S. in Math & Computer Science, but from the ancient time known as 2005.
 - 🌱 I’m currently learning C#/.NET (barely existed when I was first learning to code) and git/github
 - 📫 How to reach me: personal email address is sts dot cardsfan AT gmail dot com
